@@ -1,0 +1,1316 @@
+{
+    "aqi": [
+        {
+            "country": "Afghanistan",
+            "capital_city": "Kabul",
+            "aqi": 229,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Albania",
+            "capital_city": "Tirana",
+            "aqi": 384,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Algeria",
+            "capital_city": "Algiers",
+            "aqi": 68,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Andorra",
+            "capital_city": "Andorra la Vella",
+            "aqi": 351,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Angola",
+            "capital_city": "Luanda",
+            "aqi": 222,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Argentina",
+            "capital_city": "Buenos Aires",
+            "aqi": 267,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Armenia",
+            "capital_city": "Yerevan",
+            "aqi": 123,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Australia",
+            "capital_city": "Canberra",
+            "aqi": 480,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Austria",
+            "capital_city": "Vienna",
+            "aqi": 413,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Azerbaijan",
+            "capital_city": "Baku",
+            "aqi": 245,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Bahamas",
+            "capital_city": "Nassau",
+            "aqi": 211,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Bahrain",
+            "capital_city": "Manama",
+            "aqi": 305,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Bangladesh",
+            "capital_city": "Dhaka",
+            "aqi": 73,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Barbados",
+            "capital_city": "Bridgetown",
+            "aqi": 314,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Belarus",
+            "capital_city": "Minsk",
+            "aqi": 401,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Belgium",
+            "capital_city": "Brussels",
+            "aqi": 80,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Belize",
+            "capital_city": "Belmopan",
+            "aqi": 211,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Benin",
+            "capital_city": "Porto-Novo",
+            "aqi": 244,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Bhutan",
+            "capital_city": "Thimphu",
+            "aqi": 138,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Bolivia",
+            "capital_city": "Sucre",
+            "aqi": 288,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "capital_city": "Sarajevo",
+            "aqi": 221,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Botswana",
+            "capital_city": "Gaborone",
+            "aqi": 427,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Brazil",
+            "capital_city": "Bras\u00edlia",
+            "aqi": 58,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Brunei",
+            "capital_city": "Bandar Seri Begawan",
+            "aqi": 310,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Bulgaria",
+            "capital_city": "Sofia",
+            "aqi": 33,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "Burkina Faso",
+            "capital_city": "Ouagadougou",
+            "aqi": 29,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "Burundi",
+            "capital_city": "Gitega",
+            "aqi": 406,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Cambodia",
+            "capital_city": "Phnom Penh",
+            "aqi": 326,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Cameroon",
+            "capital_city": "Yaound\u00e9",
+            "aqi": 265,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Canada",
+            "capital_city": "Ottawa",
+            "aqi": 112,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Cape Verde",
+            "capital_city": "Praia",
+            "aqi": 459,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Central African Republic",
+            "capital_city": "Bangui",
+            "aqi": 179,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Chad",
+            "capital_city": "N'Djamena",
+            "aqi": 53,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Chile",
+            "capital_city": "Santiago",
+            "aqi": 267,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "China",
+            "capital_city": "Beijing",
+            "aqi": 127,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Colombia",
+            "capital_city": "Bogot\u00e1",
+            "aqi": 484,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Comoros",
+            "capital_city": "Moroni",
+            "aqi": 195,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Congo",
+            "capital_city": "Brazzaville",
+            "aqi": 33,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "Costa Rica",
+            "capital_city": "San Jos\u00e9",
+            "aqi": 302,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Croatia",
+            "capital_city": "Zagreb",
+            "aqi": 128,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Cuba",
+            "capital_city": "Havana",
+            "aqi": 113,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Cyprus",
+            "capital_city": "Nicosia",
+            "aqi": 108,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Czech Republic",
+            "capital_city": "Prague",
+            "aqi": 392,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Denmark",
+            "capital_city": "Copenhagen",
+            "aqi": 410,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Djibouti",
+            "capital_city": "Djibouti",
+            "aqi": 385,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Dominica",
+            "capital_city": "Roseau",
+            "aqi": 335,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Dominican Republic",
+            "capital_city": "Santo Domingo",
+            "aqi": 339,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Ecuador",
+            "capital_city": "Quito",
+            "aqi": 341,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Egypt",
+            "capital_city": "Cairo",
+            "aqi": 434,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "El Salvador",
+            "capital_city": "San Salvador",
+            "aqi": 208,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Equatorial Guinea",
+            "capital_city": "Malabo",
+            "aqi": 402,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Eritrea",
+            "capital_city": "Asmara",
+            "aqi": 293,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Estonia",
+            "capital_city": "Tallinn",
+            "aqi": 159,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Eswatini",
+            "capital_city": "Mbabane",
+            "aqi": 471,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Ethiopia",
+            "capital_city": "Addis Ababa",
+            "aqi": 199,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Fiji",
+            "capital_city": "Suva",
+            "aqi": 319,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Finland",
+            "capital_city": "Helsinki",
+            "aqi": 198,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "France",
+            "capital_city": "Paris",
+            "aqi": 473,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Gabon",
+            "capital_city": "Libreville",
+            "aqi": 236,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Gambia",
+            "capital_city": "Banjul",
+            "aqi": 319,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Georgia",
+            "capital_city": "Tbilisi",
+            "aqi": 478,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Germany",
+            "capital_city": "Berlin",
+            "aqi": 226,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Ghana",
+            "capital_city": "Accra",
+            "aqi": 315,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Greece",
+            "capital_city": "Athens",
+            "aqi": 45,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "Grenada",
+            "capital_city": "St. George's",
+            "aqi": 419,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Guatemala",
+            "capital_city": "Guatemala City",
+            "aqi": 486,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Guinea",
+            "capital_city": "Conakry",
+            "aqi": 475,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Guinea-Bissau",
+            "capital_city": "Bissau",
+            "aqi": 182,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Guyana",
+            "capital_city": "Georgetown",
+            "aqi": 245,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Haiti",
+            "capital_city": "Port-au-Prince",
+            "aqi": 290,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Honduras",
+            "capital_city": "Tegucigalpa",
+            "aqi": 145,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Hungary",
+            "capital_city": "Budapest",
+            "aqi": 268,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Iceland",
+            "capital_city": "Reykjav\u00edk",
+            "aqi": 492,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "India",
+            "capital_city": "New Delhi",
+            "aqi": 202,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Indonesia",
+            "capital_city": "Jakarta",
+            "aqi": 334,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Iran",
+            "capital_city": "Tehran",
+            "aqi": 292,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Iraq",
+            "capital_city": "Baghdad",
+            "aqi": 34,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "Ireland",
+            "capital_city": "Dublin",
+            "aqi": 202,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Israel",
+            "capital_city": "Jerusalem",
+            "aqi": 221,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Italy",
+            "capital_city": "Rome",
+            "aqi": 376,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Jamaica",
+            "capital_city": "Kingston",
+            "aqi": 283,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Japan",
+            "capital_city": "Tokyo",
+            "aqi": 331,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Jordan",
+            "capital_city": "Amman",
+            "aqi": 324,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Kazakhstan",
+            "capital_city": "Nur-Sultan",
+            "aqi": 278,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Kenya",
+            "capital_city": "Nairobi",
+            "aqi": 218,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Kuwait",
+            "capital_city": "Kuwait City",
+            "aqi": 304,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Kyrgyzstan",
+            "capital_city": "Bishkek",
+            "aqi": 136,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Laos",
+            "capital_city": "Vientiane",
+            "aqi": 326,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Latvia",
+            "capital_city": "Riga",
+            "aqi": 151,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Lebanon",
+            "capital_city": "Beirut",
+            "aqi": 448,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Lesotho",
+            "capital_city": "Maseru",
+            "aqi": 165,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Liberia",
+            "capital_city": "Monrovia",
+            "aqi": 469,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Libya",
+            "capital_city": "Tripoli",
+            "aqi": 382,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Liechtenstein",
+            "capital_city": "Vaduz",
+            "aqi": 322,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Lithuania",
+            "capital_city": "Vilnius",
+            "aqi": 340,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Luxembourg",
+            "capital_city": "Luxembourg",
+            "aqi": 236,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Madagascar",
+            "capital_city": "Antananarivo",
+            "aqi": 290,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Malawi",
+            "capital_city": "Lilongwe",
+            "aqi": 153,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Malaysia",
+            "capital_city": "Kuala Lumpur",
+            "aqi": 384,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Maldives",
+            "capital_city": "Mal\u00e9",
+            "aqi": 196,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Mali",
+            "capital_city": "Bamako",
+            "aqi": 422,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Malta",
+            "capital_city": "Valletta",
+            "aqi": 28,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "Mexico",
+            "capital_city": "Mexico City",
+            "aqi": 376,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Moldova",
+            "capital_city": "Chi\u0219in\u0103u",
+            "aqi": 257,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Monaco",
+            "capital_city": "Monaco",
+            "aqi": 132,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Mongolia",
+            "capital_city": "Ulaanbaatar",
+            "aqi": 225,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Morocco",
+            "capital_city": "Rabat",
+            "aqi": 367,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Mozambique",
+            "capital_city": "Maputo",
+            "aqi": 410,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Myanmar",
+            "capital_city": "Naypyidaw",
+            "aqi": 56,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Namibia",
+            "capital_city": "Windhoek",
+            "aqi": 491,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Nepal",
+            "capital_city": "Kathmandu",
+            "aqi": 399,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Netherlands",
+            "capital_city": "Amsterdam",
+            "aqi": 266,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "New Zealand",
+            "capital_city": "Wellington",
+            "aqi": 267,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Nicaragua",
+            "capital_city": "Managua",
+            "aqi": 168,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Niger",
+            "capital_city": "Niamey",
+            "aqi": 34,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "Nigeria",
+            "capital_city": "Abuja",
+            "aqi": 115,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "North Korea",
+            "capital_city": "Pyongyang",
+            "aqi": 22,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "North Macedonia",
+            "capital_city": "Skopje",
+            "aqi": 248,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Norway",
+            "capital_city": "Oslo",
+            "aqi": 259,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Oman",
+            "capital_city": "Muscat",
+            "aqi": 230,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Pakistan",
+            "capital_city": "Islamabad",
+            "aqi": 130,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Palestine",
+            "capital_city": "Ramallah",
+            "aqi": 389,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Panama",
+            "capital_city": "Panama City",
+            "aqi": 381,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Papua New Guinea",
+            "capital_city": "Port Moresby",
+            "aqi": 86,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Paraguay",
+            "capital_city": "Asunci\u00f3n",
+            "aqi": 447,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Peru",
+            "capital_city": "Lima",
+            "aqi": 222,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Philippines",
+            "capital_city": "Manila",
+            "aqi": 459,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Poland",
+            "capital_city": "Warsaw",
+            "aqi": 161,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Portugal",
+            "capital_city": "Lisbon",
+            "aqi": 152,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Qatar",
+            "capital_city": "Doha",
+            "aqi": 434,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Romania",
+            "capital_city": "Bucharest",
+            "aqi": 213,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Russia",
+            "capital_city": "Moscow",
+            "aqi": 38,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "Rwanda",
+            "capital_city": "Kigali",
+            "aqi": 464,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Saudi Arabia",
+            "capital_city": "Riyadh",
+            "aqi": 435,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Senegal",
+            "capital_city": "Dakar",
+            "aqi": 388,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Serbia",
+            "capital_city": "Belgrade",
+            "aqi": 444,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Seychelles",
+            "capital_city": "Victoria",
+            "aqi": 454,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Singapore",
+            "capital_city": "Singapore",
+            "aqi": 352,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Slovakia",
+            "capital_city": "Bratislava",
+            "aqi": 394,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Slovenia",
+            "capital_city": "Ljubljana",
+            "aqi": 396,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "South Africa",
+            "capital_city": "Pretoria",
+            "aqi": 115,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "South Korea",
+            "capital_city": "Seoul",
+            "aqi": 418,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Spain",
+            "capital_city": "Madrid",
+            "aqi": 488,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Sri Lanka",
+            "capital_city": "Colombo",
+            "aqi": 455,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Sudan",
+            "capital_city": "Khartoum",
+            "aqi": 52,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Sweden",
+            "capital_city": "Stockholm",
+            "aqi": 283,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Switzerland",
+            "capital_city": "Bern",
+            "aqi": 75,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is moderate; sensitive individuals should reduce prolonged outdoor activities."
+        },
+        {
+            "country": "Syria",
+            "capital_city": "Damascus",
+            "aqi": 453,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Tanzania",
+            "capital_city": "Dodoma",
+            "aqi": 315,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Thailand",
+            "capital_city": "Bangkok",
+            "aqi": 429,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Tunisia",
+            "capital_city": "Tunis",
+            "aqi": 127,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Turkey",
+            "capital_city": "Ankara",
+            "aqi": 194,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Uganda",
+            "capital_city": "Kampala",
+            "aqi": 328,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Ukraine",
+            "capital_city": "Kyiv",
+            "aqi": 47,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is good; enjoy outdoor activities."
+        },
+        {
+            "country": "United Arab Emirates",
+            "capital_city": "Abu Dhabi",
+            "aqi": 351,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "United Kingdom",
+            "capital_city": "London",
+            "aqi": 304,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "United States",
+            "capital_city": "Washington D.C.",
+            "aqi": 337,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Uruguay",
+            "capital_city": "Montevideo",
+            "aqi": 140,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Uzbekistan",
+            "capital_city": "Tashkent",
+            "aqi": 225,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Very unhealthy; avoid prolonged outdoor activities."
+        },
+        {
+            "country": "Venezuela",
+            "capital_city": "Caracas",
+            "aqi": 163,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy; everyone should reduce outdoor activities."
+        },
+        {
+            "country": "Vietnam",
+            "capital_city": "Hanoi",
+            "aqi": 108,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Air quality is unhealthy for sensitive groups; limit outdoor activities."
+        },
+        {
+            "country": "Yemen",
+            "capital_city": "Sana'a",
+            "aqi": 341,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Zambia",
+            "capital_city": "Lusaka",
+            "aqi": 442,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        },
+        {
+            "country": "Zimbabwe",
+            "capital_city": "Harare",
+            "aqi": 388,
+            "measurement_time": "2025-03-16 19:20:00",
+            "data_source": "Dummy Data",
+            "recommendation": "Hazardous air quality; stay indoors."
+        }
+    ]
+}
